@@ -18,7 +18,7 @@
 <li>First the admin have to register on admin portal.</li>
  <li>Next the candidates have to register on candidate portal.</li>
 <li>Next, Students/users/voters have to register on voters' Portal.</li>
-<li>Then Voter Login -> Voter can vote. also can change their demographic details. Once voted, it cant be changed. (Of course, admin can grant permission if necessay)</li>
+<li>Then Voter Login -> Voter can vote. also can change their demographic details. Once voted, it cant be changed.</li>
 <li>Admin Login - Admin can see real time voting percentage against each candidate, students who have voted and in last can declare the winner</li>
 </ul>
 
